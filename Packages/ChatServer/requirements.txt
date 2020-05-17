@@ -1,0 +1,5 @@
+twisted
+pyOpenSSL
+requests
+service_identity
+coloredlogs

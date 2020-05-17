@@ -1,0 +1,6 @@
+twisted
+wxpython
+pyopenssl
+requests
+service_identity
+pyperclip

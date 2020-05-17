@@ -1,0 +1,8 @@
+{
+    "owner":[
+        "kick_user",
+        "ban_user",
+        "abandon_channel",
+        "transfer_ownership"
+    ]
+}

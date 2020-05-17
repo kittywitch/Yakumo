@@ -1,0 +1,10 @@
+{
+    "connection":{
+        "port":4242,
+        "api":"localhost"
+    },
+    "pushover":{
+        "token":"a7q4soxthj1ruji13vfo5wej3oe1n8",
+        "user":"u9dy5r6f1jdg8wujbtae69yfyxwpu9"
+    }
+}
